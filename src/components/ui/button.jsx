@@ -1,1 +1,0 @@
-export const Button = (props) => <button {...props} className="p-2 bg-green-600 text-white rounded">{props.children}</button>;
